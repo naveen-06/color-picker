@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/color-picker/static/css/main.0793bb44.chunk.css",
+    "main.js": "/color-picker/static/js/main.d9521869.chunk.js",
+    "main.js.map": "/color-picker/static/js/main.d9521869.chunk.js.map",
+    "runtime-main.js": "/color-picker/static/js/runtime-main.ac77659b.js",
+    "runtime-main.js.map": "/color-picker/static/js/runtime-main.ac77659b.js.map",
+    "static/js/2.bf9d2882.chunk.js": "/color-picker/static/js/2.bf9d2882.chunk.js",
+    "static/js/2.bf9d2882.chunk.js.map": "/color-picker/static/js/2.bf9d2882.chunk.js.map",
+    "index.html": "/color-picker/index.html",
+    "precache-manifest.fda975811988d9667198cca8111a2d50.js": "/color-picker/precache-manifest.fda975811988d9667198cca8111a2d50.js",
+    "service-worker.js": "/color-picker/service-worker.js",
+    "static/css/main.0793bb44.chunk.css.map": "/color-picker/static/css/main.0793bb44.chunk.css.map",
+    "static/js/2.bf9d2882.chunk.js.LICENSE.txt": "/color-picker/static/js/2.bf9d2882.chunk.js.LICENSE.txt",
+    "static/media/Confetti-Doodles.svg": "/color-picker/static/media/Confetti-Doodles.de275f93.svg",
+    "static/media/add.1e71bac7.svg": "/color-picker/static/media/add.1e71bac7.svg",
+    "static/media/cancel.e3741d9b.svg": "/color-picker/static/media/cancel.e3741d9b.svg",
+    "static/media/logo.437d6e6b.svg": "/color-picker/static/media/logo.437d6e6b.svg",
+    "static/media/menu.a450cc10.svg": "/color-picker/static/media/menu.a450cc10.svg",
+    "static/media/paint-palette.437d6e6b.svg": "/color-picker/static/media/paint-palette.437d6e6b.svg",
+    "static/media/random.d544872e.svg": "/color-picker/static/media/random.d544872e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac77659b.js",
+    "static/js/2.bf9d2882.chunk.js",
+    "static/css/main.0793bb44.chunk.css",
+    "static/js/main.d9521869.chunk.js"
+  ]
+}
